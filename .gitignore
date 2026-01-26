@@ -1,0 +1,20 @@
+# Arduino build files
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.eep
+*.lst
+*.map
+*.srec
+*.sym
+
+# IDE temporary files
+.pio/
+.vscode/
+.ino.bin
+
+# OS files
+.DS_Store
+Thumbs.db
